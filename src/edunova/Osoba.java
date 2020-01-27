@@ -1,6 +1,6 @@
 package edunova;
 
-public class Osoba {
+public class Osoba { // klasa Osoba
 	
 	private int sifra;
 	private String ime;
